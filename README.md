@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# AngularHeroesApp
+WebApp básica en Angular creada a partir del curso de Udemy (Angular: De cero a experto creando aplicaciones (Angular 8+))
+>>>>>>> 271f92483a40a98217aea7faa99f04198f2cdf79
